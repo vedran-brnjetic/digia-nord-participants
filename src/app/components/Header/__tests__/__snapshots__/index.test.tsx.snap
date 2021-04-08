@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header  /> should match snapshot 1`] = `
+.c0 {
+  padding: 32px;
+  width: 912px;
+  background-color: #adb5bd;
+  width: 976px;
+}
+
+.c1 {
+  display: inline;
+  vertical-align: middle;
+}
+
+.c2 {
+  display: inline;
+  margin-left: 16px;
+  vertical-align: middle;
+  font-size: 24px;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+<div
+  class="c0"
+>
+  <img
+    class="c1"
+    src="https://fakeimg.pl/32/"
+  />
+  <h1
+    class="c2"
+  >
+    Nord Software
+  </h1>
+</div>
+`;
